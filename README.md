@@ -1,14 +1,14 @@
 # ⚜️ My Quest Log
-> A list of my current and future quests (projects and plans). Currently, always and forever under construction.
+ A list of my current and future quests (projects and plans). Currently, always and forever under construction.
 
-## 💠 Main Quests: Currently
+## 💠 Main Quests 💠
 - [ ] Make repo documentation less AI.
 - [ ] Start a small python project to get started with learning coding.
 
-## 🔶️ Future Quests
+## 🔶️ Future Quests 🔶️
 - [ ] Document all school projects and assignments.
 
-## 🔷️ Side Quests
+## 🔷️ Side Quests 🔷️
 - [ ] Investigate more about running AI models locally (ex. Potpie).
 
 ---
