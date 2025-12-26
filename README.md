@@ -11,5 +11,12 @@
 ## 🔷️ Side Quests
 - [ ] Investigate more about running AI models locally (ex. Potpie).
 
+## ♦️ Achievements (Milestones and certs)
+- [ ] ISC2 CC (Planned)
+- [ ] LPI Linux Essentials (Planned)
+- [ ] LPI Security Essentials (Planned)
+- [ ] AZ-900 (Planned)
+- [ ] CompTIA (Planned)
+- [ ] CCNA (Planned)
 ---
 *Started: Dec 25, 2025* *Updated: Dec 25, 2025*
