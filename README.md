@@ -19,4 +19,4 @@
 - [ ] CompTIA (Planned)
 - [ ] CCNA (Planned)
 ---
-*Started: Dec 25, 2025* *Updated: Dec 25, 2025*
+*Started: Dec 25, 2025* *Updated: Dec 26, 2025*
