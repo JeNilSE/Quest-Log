@@ -20,7 +20,7 @@
 - [x] **[ZeroLogon Analysis (CVE-2020-1472)](https://github.com/JeNilSE/CVE-2020-1472-ZeroLogon-Analysis)**
 
 ## 🔰 Achievements (Milestones and certs)
-- [ ] ISC2 CC (Planned)
+- [ ] CCST (Planned)
 - [ ] LPI Linux Essentials (Planned)
 - [ ] LPI Security Essentials (Planned)
 - [ ] AZ-900 (Planned)
