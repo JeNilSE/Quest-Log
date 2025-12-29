@@ -1,5 +1,5 @@
 # ⚜️ My Quest Log
- A list of my current and future quests (projects and plans). Currently, always and forever under construction.
+A list of my current and future quests (projects and plans). Currently, always and forever under construction.
 
 ## 💠 Main Quests
 - [ ] Start a small python project to get started with learning coding.
@@ -17,6 +17,7 @@
 - [x] **[Linux Sentry](https://github.com/JeNilSE/Linux-Server-Hardening-Automation-School-assignment-script-included-)**
 - [x] **[Secure Web Hosting](https://github.com/JeNilSE/Secure-WordPress-Infrastructure-School-Assignment-)**
 - [x] **[ZeroLogon Analysis (CVE-2020-1472)](https://github.com/JeNilSE/CVE-2020-1472-ZeroLogon-Analysis)**
+- [x] **[Wazuh SIEM on Proxmox](https://github.com/JeNilSE/wazuh-siem-proxmox)**
 
 ## 🔰 Achievements (Milestones and certs)
 - [ ] CCST (Planned)
@@ -26,4 +27,4 @@
 - [ ] CompTIA (Planned)
 - [ ] CCNA (Planned)
 ---
-*Started: Dec 25, 2025* *Updated: Dec 28, 2025*
+*Started: Dec 25, 2025* *Updated: Dec 29, 2025*
