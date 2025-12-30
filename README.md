@@ -18,6 +18,7 @@ A list of my current and future quests (projects and plans). Currently, always a
 - [x] **[Secure Web Hosting](https://github.com/JeNilSE/Secure-WordPress-Infrastructure-School-Assignment-)**
 - [x] **[ZeroLogon Analysis (CVE-2020-1472)](https://github.com/JeNilSE/CVE-2020-1472-ZeroLogon-Analysis)**
 - [x] **[Wazuh SIEM on Proxmox](https://github.com/JeNilSE/wazuh-siem-proxmox)**
+- [x] **[Python Training Ground](https://github.com/JeNilSE/python-training-ground)**
 
 ## 🔰 Achievements (Milestones and certs)
 - [ ] CCST (Planned)
@@ -27,4 +28,4 @@ A list of my current and future quests (projects and plans). Currently, always a
 - [ ] CompTIA (Planned)
 - [ ] CCNA (Planned)
 ---
-*Started: Dec 25, 2025* *Updated: Dec 29, 2025*
+*Started: Dec 25, 2025* *Updated: Dec 30, 2025*
