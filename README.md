@@ -2,7 +2,7 @@
 A list of my current and future quests (projects and plans). Currently, always and forever under construction.
 
 ## 💠 Main Quests
-- [ ] Start a small python project to get started with learning coding.
+- [ ] Start a bigger python project to keep learning.
 
 ## 🟧 Future Quests
 - [ ] Document all school projects and assignments.
