@@ -21,11 +21,6 @@ A list of my current and future quests (projects and plans). Currently, always a
 - [x] **[Python Training Ground](https://github.com/JeNilSE/python-training-ground)**
 
 ## 🔰 Achievements (Milestones and certs)
-- [ ] CCST (Planned)
-- [ ] LPI Linux Essentials (Planned)
-- [ ] LPI Security Essentials (Planned)
-- [ ] AZ-900 (Planned)
-- [ ] CompTIA (Planned)
-- [ ] CCNA (Planned)
+
 ---
-*Started: Dec 25, 2025* *Updated: Dec 30, 2025*
+*Started: Dec 25, 2025* *Updated: Jan 1, 2026*
