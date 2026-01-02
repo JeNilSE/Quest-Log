@@ -8,7 +8,7 @@ A list of my current and future quests (projects and plans). Currently, always a
 - [ ] Document all school projects and assignments.
 
 ## 🟦 Side Quests
-- [ ] Investigate more about running AI models locally (ex. Potpie).
+- [ ] Trying to come up with more projects to learn more about linux/win/mac security.
 
 ## 🟩 Completed Quests
 - [x] **[The Proxmox Gateway](https://github.com/JeNilSE/Proxmox-Secure-Gateway-Home-Lab)**
@@ -23,4 +23,4 @@ A list of my current and future quests (projects and plans). Currently, always a
 ## 🔰 Achievements (Milestones and certs)
 
 ---
-*Started: Dec 25, 2025* *Updated: Jan 1, 2026*
+*Started: Dec 25, 2025* *Updated: Jan 2, 2026*
